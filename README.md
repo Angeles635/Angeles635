@@ -1,6 +1,6 @@
 # Hola, soy Ángeles Jiménez 👋
 
-Analista de datos con enfoque en operaciones y negocio. Me especializo en detectar lo que los números  esconden - desde discrepancias en inventario hasta patrones que indican pérdidas o ineficiencias en procesos.
+Analista de datos con enfoque en operaciones y negocio. Me especializo en detectar que los números  esconden - desde discrepancias en inventario hasta patrones que indican pérdidas o ineficiencias en procesos.
 
 Vengo del mundo real: operé una planta, llevé caja y logística, y desarrollé ojo clínico para 
 detectar cuando los números no cuadran — ya sea por error humano o por algo más.
