@@ -5,6 +5,9 @@ Analista de datos con enfoque en operaciones y negocio. Me especializo en detect
 Vengo del mundo real: operé una planta, llevé caja y logística, y desarrollé ojo clínico para 
 detectar cuando los números no cuadran — ya sea por error humano o por algo más.
 
+Construí sistemas de automatización en Google Sheets con Apps Script — desde hojas de ruta de distribución con dashboards integrados hasta 
+notificaciones automáticas por Gmail.
+
 Actualmente construyendo proyectos de análisis de datos y desarrollo web. Me especializo en crear automatizaciones y soluciones con herramientas sin costo para pequeñas empresas que no tienen presupuesto para software 
 empresarial.
 
