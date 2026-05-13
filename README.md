@@ -9,6 +9,8 @@ Actualmente construyendo proyectos de análisis de datos y desarrollo web. Me es
 empresarial.
 
 ## 🛠️ Herramientas
+## <img src="https://cdn.simpleicons.org/google/EA4335" width="22"/> Ecosistema Google
+Google Sheets · Google Apps Script · AppSheet · Gmail API · Google Data Studio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
